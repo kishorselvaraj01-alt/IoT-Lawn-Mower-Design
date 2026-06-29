@@ -1,52 +1,56 @@
-# \# IoT Lawn Mower Design
+\# IoT Lawn Mower Design
 
-# 
 
-# \## Overview
 
-# An ESP32-based IoT lawn mower designed for automated grass cutting and remote control.
+An ESP32-based IoT lawn mower designed for automated grass cutting and remote control.
 
-# 
 
-# \## Features
 
-# \- ESP32 Wi-Fi Control
+\### Overview
 
-# \- Motorized Movement
+The project automates grass cutting using an ESP32 microcontroller and allows remote control through Wi-Fi.
 
-# \- Smart Lawn Maintenance
 
-# \- Remote Monitoring
 
-# 
+\### Features
 
-# \## Components Used
+\- ESP32 Wi-Fi Control
 
-# \- ESP32
+\- Motorized Movement
 
-# \- Motor Driver
+\- Smart Lawn Maintenance
 
-# \- DC Motors
+\- Remote Monitoring
 
-# \- Battery
 
-# \- Chassis
 
-# 
+\### Components Used
 
-# \## Software
+\- ESP32
 
-# \- Arduino IDE
+\- Motor Driver
 
-# 
+\- DC Motors
 
-# \## Team Members
+\- Battery
 
-# \- Kishor
+\- Chassis
 
-# \- Madhavan
 
-# \- Mithun
 
-# \- Vignesh
+\### Software
+
+\- Arduino IDE
+
+
+
+\### Team Members
+
+\- Kishor
+
+\- Madhavan
+
+\- Mithun
+
+\- Vignesh
 
